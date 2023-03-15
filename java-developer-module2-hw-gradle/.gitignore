@@ -1,0 +1,13 @@
+out/
+.idea/
+.idea_modules/
+.gradle/
+build/
+.mtj.tmp/
+*.class
+*.jar
+*.log
+*.bak
+*.iml
+*.war
+target/
